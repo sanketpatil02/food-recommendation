@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: auto;
+  width: 70%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.genreBtn {
+  margin: 0.3rem;
+  border-radius: 0.3rem;
+  border: 0.2px solid black;
+  padding: 0.5rem;
+  display: inline;
+}
+
+h3 {
+  text-align: left;
+  padding-left: 1rem;
+  padding-bottom: 0;
+}
+
+p {
+  text-align: left;
+  padding-left: 1rem;
+}
